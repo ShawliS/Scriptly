@@ -75,23 +75,23 @@ The application analyzes journal entries, identifies the user's emotional state,
 - Database: PostgreSQL
 
 ## How it works
-User writes a journal entry
+- User writes a journal entry
           ↓
-Frontend sends the entry to the backend
+- Frontend sends the entry to the backend
           ↓
-Django REST API receives the request
+- Django REST API receives the request
           ↓
-Text preprocessing using NLTK
+- Text preprocessing using NLTK
           ↓
-Emotion classification using the NLP model
+- Emotion classification using the NLP model
           ↓
-Emotion + confidence score generated
+- Emotion + confidence score generated
           ↓
-Result stored in the database
+- Result stored in the database
           ↓
-Recommendation generated
+- Recommendation generated
           ↓
-Result displayed to the user
+- Result displayed to the user
 
 ## Project Structure
 
