@@ -4,6 +4,7 @@
 Scriptly is a full-stack web application that helps users maintain a digital journal and understand their emotions through AI-powered text analysis.
 
 The application analyzes journal entries, identifies the user's emotional state, provides confidence scores, and offers recommendations based on the detected emotion. It also includes user authentication, emotion history, and an alert mechanism for entries containing potentially concerning keywords.
+- DEMO VIDEO: https://github.com/user-attachments/assets/820c6ea5-570c-48f1-a649-344ce60f0747
 
 ## Features
 
